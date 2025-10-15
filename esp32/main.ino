@@ -2,8 +2,8 @@
 #include <WiFi.h>
 
 // Replace with your WiFi network credentials
-const char* ssid = "YOUR_WIFI_SSID";
-const char* password = "YOUR_WIFI_PASSWORD";
+const char* ssid = "Airtel-E5573-38E8";
+const char* password = "9jn2214n";
 
 // Camera configuration (for AI-Thinker ESP32-CAM)
 camera_config_t config = {
